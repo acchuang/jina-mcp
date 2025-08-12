@@ -2,6 +2,10 @@
 
 A remote Model Context Protocol (MCP) server that provides access to Jina Reader, Embeddings and Reranker APIs with a suite of URL-to-markdown, web search, image search, and embeddings/reranker tools:
 
+<a href="https://glama.ai/mcp/servers/@acchuang/jina-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@acchuang/jina-mcp/badge" alt="Jina AI Remote Server MCP server" />
+</a>
+
 | Tool | Description | Is Jina API Key Required? |
 |-----------|-------------|----------------------|
 | `read_url` | Extract clean, structured content from web pages as markdown via [Reader API](https://jina.ai/reader) | Optional* |
